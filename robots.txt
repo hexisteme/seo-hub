@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hexisteme.github.io/seo-hub/sitemap.xml
